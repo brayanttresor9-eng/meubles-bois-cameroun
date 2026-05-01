@@ -15,14 +15,14 @@ MEUBLES = [
     },
     {
         "nom":"Banc Bassa + Étagères Kribi",
-        "prix": 45000,
+        "prix": 65000,
         "img":"https://i.imgur.com/6jjF1R5.jpeg",
         "desc":"Banc pin massif 120cm + 5 modules muraux géométriques",
         "stripe_price_id": "price_1TS5I3DmScq27Uw6uF2hgRd7"
     },
     {
         "nom":"Table Haute Wouri",
-        "prix": 65000,
+        "prix": 85000,
         "img":"https://i.imgur.com/7AJZU2c.jpeg",
         "desc":"Table bar bois massif 140x70cm + style industriel",
         "stripe_price_id": "price_1TS5KGDmScq27Uw6pmLmDU2T"
